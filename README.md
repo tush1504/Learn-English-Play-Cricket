@@ -1,11 +1,11 @@
 
-# IND vs AUS: Endgame – A Cricket-Themed Word Guessing Game 🏏
+# IND vs AUS: Endgame – A Cricket-Themed Word Guessing Game
 
 Welcome to **Endgame**, a fun and engaging cricket-themed word guessing game inspired by the thrill of an India vs Australia match! Your mission is to help Team India reach a big score by guessing the secret word correctly. Every wrong guess costs a wicket — can you help the team hit 300+ without collapsing?
 
 ---
 
-## 🧠 How to Play
+## How to Play
 
 1. Guess the hidden word by clicking or typing letters.  
 2. Every correct guess earns **51 runs**.  
@@ -15,7 +15,7 @@ Welcome to **Endgame**, a fun and engaging cricket-themed word guessing game ins
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 ![screenshot](https://github.com/tush1504/Learn-English-Play-Cricket/blob/main/public/Screenshot%202025-06-12%20224918.png)
 ![screenshot](https://github.com/tush1504/Learn-English-Play-Cricket/blob/main/public/Screenshot%202025-06-12%20230407.png)
@@ -23,7 +23,7 @@ Welcome to **Endgame**, a fun and engaging cricket-themed word guessing game ins
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
 - You have **8 guesses** to uncover the secret word.
 - Each incorrect letter guess **loses one player (wicket)**.
@@ -32,25 +32,25 @@ Welcome to **Endgame**, a fun and engaging cricket-themed word guessing game ins
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔠 On-screen keyboard for interactive letter guessing
-- 💥 Visual feedback for correct/wrong letters
-- 🎨 Animated player chips representing wickets
-- 🧠 Random words on each new game
-- 🧵 Accessibility support with `aria-live` regions
-- 🎊 Confetti celebration upon winning
-- 🇮🇳 Themed for India vs Australia cricket fans
-- ⏱ Timer available to check the speed
-- 🎵 Background Music to match vibe with the game
-- 📋 Keep track of the score as you play
-- 📊 Analytical report when the game is over
-- 📜 Word Meaning and POS to learn about the word
-- 🏆 High Score Tracker to keep up the competition
+-  On-screen keyboard for interactive letter guessing
+-  Visual feedback for correct/wrong letters
+-  Animated player chips representing wickets
+-  Random words on each new game
+-  Accessibility support with `aria-live` regions
+-  Confetti celebration upon winning
+-  Themed for India vs Australia cricket fans
+-  Timer available to check the speed
+-  Background Music to match vibe with the game
+-  Keep track of the score as you play
+-  Analytical report when the game is over
+-  Word Meaning and POS to learn about the word
+-  High Score Tracker to keep up the competition
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 - **Frontend**: React, JavaScript, SCSS/CSS3  
 - **APIs**: [Free Dictionary API](https://dictionaryapi.dev/)  
@@ -63,7 +63,7 @@ Welcome to **Endgame**, a fun and engaging cricket-themed word guessing game ins
 
 ---
 
-## 📦 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -85,7 +85,7 @@ npm run dev
 ```
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```plaintext
 
@@ -116,24 +116,23 @@ project-root/
 ```
 ---
 
-## 📚 API Reference
+##  API Reference
 
 - **Free Dictionary API**:  
   [https://api.dictionaryapi.dev/api/v2/entries/en/<word>](https://dictionaryapi.dev/)
 
 ---
 
-## ✅ To-Do / Improvements
+##  To-Do / Improvements
 
 - [ ] Add multiplayer support  
-- [ ] Add difficulty levels for longer words  
-- [ ] Animate hangman drawing step-by-step  
+- [ ] Add difficulty levels for longer words    
 - [ ] Dark mode / theme toggle  
 - [ ] Accessibility enhancements (ARIA, screen reader support)
 
 ---
 
-## 📦 Deployment
+##  Deployment
 
 You can deploy the app using:
 
@@ -145,7 +144,7 @@ Make sure to configure your `public/index.html` for SEO (title, description, Ope
 
 ---
 
-## 🤓 Acknowledgement
+##  Acknowledgement
 
 - Word list and farewell messages are custom designed for a cricket audience
 - Inspired by Hangman mechanics, blended with cricket drama
@@ -153,20 +152,19 @@ Make sure to configure your `public/index.html` for SEO (title, description, Ope
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 **Tushar Kant Sahu**  
 [GitHub Profile](https://github.com/tush1504)
 
 ---
 
-## 📃 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## ⭐️ Support
 
 If you like this project, leave a ⭐️ on [GitHub](https://github.com/tush1504/Competitive-Tenzies) to support it!
 
